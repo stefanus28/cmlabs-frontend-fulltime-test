@@ -144,7 +144,7 @@ src/
 
 ## 🔗 Live Demo
 
-> *(Add your deployment link here after deploying to Vercel / Netlify)*
+> *(https://cmlabs-frontend-fulltime-test-roan.vercel.app/ingredients)*
 
 ---
 

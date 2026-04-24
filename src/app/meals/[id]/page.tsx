@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: `${meal.strMeal} | MealExplorer`,
       description: `Full recipe, ingredients, and video tutorial for ${meal.strMeal}.`,
-      openGraph: {git status
+      openGraph: {
         title: meal.strMeal,
         description: `${meal.strArea} cuisine · ${meal.strCategory}`,
         images: [{ url: meal.strMealThumb }],
